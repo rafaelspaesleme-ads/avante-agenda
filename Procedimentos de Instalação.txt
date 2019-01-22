@@ -1,0 +1,22 @@
+Procedimentos de Instalação:
+
+1º - Instale os Framework JDK de acordo com a versão do seu Windows (x86 ou x64)
+
+2º - Instale o Sistema Agenda Tecnologica
+
+3º - Instale o Xampp
+
+4º - Configure o Login e Senha do Xampp
+
+5º - Instale o Team Viewer
+
+6º - Entre em Contato com o Suporte Tecnico
+
+7º - Aguarde até que o Suporte tenha terminado as configurações de Segurança do Banco de Dados
+
+8º - Finalize todas as instalações necessarias
+
+9º - Utilize o Sistema quando quizer.
+
+
+Procedimentos encerrados.

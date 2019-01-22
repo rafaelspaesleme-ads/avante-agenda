@@ -1,0 +1,103 @@
+============= - - - LEIA-ME - - - =============
+
+***********************************************
+
+ PROGRAMA DESENVOLVIDO POR RAFAEL S. PAES LEME
+
+     DESENVOLVIDO POR: EXPLOWARE SI 2014.2
+
+     CONTATO:
+     EMAIL: rafaelspaesleme.ads@gmail.com
+     SKYPE: rafaels.paesleme@hotmail.com
+     GTALK: rafaelspaesleme.ads@gmail.com
+
+      Data de Desenvolvimento: 22-10-2014
+
+
+-----------------------------------------------
+
+MANUAL DE INSTALAÇÃO
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-
+1º PASSO
+-
+Faça a descompactação deste aplicativo clicando
+2 vezes no "Agenda Tecnologica.exe"
+
+-
+2º PASSO
+-
+Aperte para Avançar até a parte de registro
+
+-
+3º PASSO
+-
+Na tela de registro insira a chave de registro
+da sua aplicação. Caso não tenha, entre em con-
+tato com nosso suporte pelo endereço identific-
+ado acima. Após o envio do email, siga os padr-
+ões exigidos pela nossa empresa, tudo por email
+
+-
+4º PASSO
+-
+Conclusão da Descompactação, ou instalação do 
+projeto
+
+-
+5º PASSO
+-
+Instalação do Xwapp.
+Após descompactar seu app. faça a Instalação do
+"Xwapp.exe" que se encontra na pasta de sua ag-
+enda tecnologica. Siga os Padrões de instalação
+
+-
+6º PASSO
+-
+Senha do Xwapp: caso não tenha a senha do Xwapp
+. Cancele a instalação do mesmo e entre em con-
+tato com o nosso suporte. O mesmo fara a insta-
+lação do aplicativo via Acesso Remoto.
+Para entrar em contato com nosso suporte acesse
+Os contatos informados acima.
+
+-
+7º PASSO
+-
+
+Caso tenha a Senha, porém não tem conhecimento
+de como coloca a mesma no Xwapp, da mesma form-
+a do passo 6, entre em contato com nosso supor-
+te tecnico.
+
+-
+8º PASSO
+-
+Finalizando nosso procedimento de Instalação
+Clique em concluir.
+Caso sua Agenda Tecnologica não esteja aparece-
+ndo em sua area de trabalho. Acesse sua pasta 
+raiz do aplicativo e criei um atalho para sua 
+area de trabalho.
+
+-
+9º PASSO
+-
+DUVIDAS?
+ENTRE EM CONTATO CONOSCO, QUE NÓS O AJUDAREMOS!
+
+-
+10º PASSO
+-
+
+Manual de utlização da Agenda Tecnologica só será 
+fornecida via email, caso tenha duvidas ao utilizar
+nosso software, favor entre em contato conosco, segundo
+os contatos sitados neste documento.
+
+Atenciosamente,
+
+EXPLOWARE SI - 2014.2
